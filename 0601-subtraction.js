@@ -1,5 +1,5 @@
 // Remove an essential component from a product.
-// e.g. SoupPowder, HangingBabyChair, TV, LaundryFluid, GrindingDisc
+// e.g. TV, Laundry, GrindingDisc, SoupPowder, HangingBabyChair
 function getVirtualProductsBySubtraction(closedWorldComponents) {
 
     var c, virtualProducts = [];

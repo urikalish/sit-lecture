@@ -1,5 +1,4 @@
-function presentAgenda() {
-    
+function presentAgenda() { 
     talkAbout('Innovative ideas');
     talkAbout('Inventive thinking methods');
     talkAbout('SIT');

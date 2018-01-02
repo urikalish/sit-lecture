@@ -8,9 +8,9 @@
 
     //TODO: TimberFactory
 
-    //TODO: MountainBikeFork
-
     //TODO: PoliceBarrier
+
+    //TODO: MountainBikeFork
     
     return virtualProducts;
 }

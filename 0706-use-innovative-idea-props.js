@@ -4,7 +4,11 @@ function getVirtualProductsByUsingInnovativeIdeaProps(closedWorldComponents, sys
 
     var virtualProducts = [];
         
-    //TODO: Search for ideas demonstrating simplicity, specifity, or ideality.
+    //TODO: Search for ideas demonstrating simplicity
+
+    //TODO: Search for ideas demonstrating specifity
+
+    //TODO: Search for ideas demonstrating ideality
     
     return virtualProducts;
 }
