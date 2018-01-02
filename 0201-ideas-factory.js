@@ -9,7 +9,7 @@ function getNewIdeas() {
     ideas.push(getIdeasFromBrainstorming());
 
      // Sweet spot
-    ideas.push(getIdeasBySIT());
+    ideas.push(getIdeasByInventingThinkingMethods());
 
     return ideas;
 }
